@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Arumugavel17
+- 👀 I’m interested in Game development and 3D graphic rendering API like Vulkan, OpenGL, and Direct X.
+- 🌱 I’m currently learning OpenGL to gain an in-depth understanding of game engines like Unity, Unreal, and Godot.
+- 💞️ I’m looking to collaborate on a Game Development project.
